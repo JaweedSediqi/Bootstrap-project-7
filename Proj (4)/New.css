@@ -1,0 +1,18 @@
+/* ---------------------------home 1------------------------------ */
+.navbar{
+    border-bottom: 2px solid rgb(0, 145, 255);
+    
+ }
+#Home1{
+   background: url(venice.jpg) no-repeat center top fixed ;
+    min-height: 700px;
+    background-position: center;
+    background-size: cover;
+}
+.my-dark{
+    background: rgb(0, 0,0,0.5);
+    min-height: 700px;
+}
+.homeeeee{
+    padding-top: 150px;
+}
